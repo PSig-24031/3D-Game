@@ -7,7 +7,7 @@ Alyssa Mollner
 
 Isabelle Yuson
 
-Currently brainstorming ideas for the game
+Currently brainstorming ideas for the 3d game project
 
 Team Roles:
 - Peter: not yet assigned
