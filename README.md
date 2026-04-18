@@ -10,7 +10,7 @@ Team Roles:
 - Member 2: not yet assigned
 - Member 3: not yet assigned
 
-https://youtu.be/iNZb0A_UVsA
+Gameplay demo: https://youtu.be/iNZb0A_UVsA
 
 
 
