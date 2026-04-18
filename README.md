@@ -5,7 +5,7 @@ Phuc Ho
 
 Alyssa Mollner
 
-Isabelle yuson
+Isabelle Yuson
 
 Currently brainstorming ideas for the game
 
