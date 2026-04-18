@@ -8,6 +8,7 @@ Alyssa Mollner
 Isabelle yuson
 
 Currently brainstorming ideas for the game
+
 Team Roles:
 - Peter: not yet assigned
 - Isabelle: not yet assigned
