@@ -2,7 +2,9 @@ Game Name: unknown
 
 Group Members: 
 Phuc Ho
+
 Alyssa Mollner
+
 Isabelle yuson
 
 Currently brainstorming ideas for the game
