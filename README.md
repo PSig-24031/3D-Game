@@ -7,6 +7,8 @@ Alyssa Mollner
 
 Isabelle Yuson
 
+Vince Velasco
+
 Currently brainstorming ideas for the 3d game project
 
 Team Roles:
